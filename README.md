@@ -7,6 +7,7 @@ Pages of the website:
 * ride_it_galeria  
 * ride_it_kontakt  
 * ride_it_oferta  
+  
 ‘CSS’ folder includes styles for the website  
 Fontello folder includes fonts  
 Icons folder includes icons that are used  
@@ -24,7 +25,8 @@ Utworzone strony:
 * ride_it_homepage  
 * ride_it_galeria  
 * ride_it_oferta  
-* ride_it_kontakt  
+* ride_it_kontakt
+  
 ‘CSS’ – folder zawierający użyte style,  
 Fontello – folder zawierający czczionki,  
 Icons – folder zawierający wykorzystane ikonki,  
