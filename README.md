@@ -1,4 +1,4 @@
-====================POLISH VERSION BELOW====================\n
+POLISH VERSION BELOW --- 
 Hello,
 Thank you for taking time to check my projects. I would like to mention that the only purpose of creating this website was getting to know html and css better. I never intended to work as front-end developer, so some solutions that are used may not be the most suitable. The idea for making a website as a way of learning html and css came from one of the tutorial books for python. Many of the projects included there (like webscrappers), required some basic html knowledge, so I decided to learn it by doing a website. Coincidentally, a friend had just started his own company and I decided that since I am making a website anyway, I will make something that he can use. Once again I would like to emphasize that it never was a front-end project, but just a way of showing my html and css knowledge. 
 Structure of the project:
