@@ -1,0 +1,105 @@
+/* CSS stylesheet */
+
+/* ---------------------------------Home Page--------------------------------------- */
+
+.test{
+	background-color: #999999;
+	height: 1000px;
+}
+
+
+
+.nav-item{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.navbar{
+	padding-bottom: 0px;
+	padding-top: 0px;
+}
+
+/*To pozwala na ustawienie opcji w srodku */
+#emptyspace{
+	width: 150px;!important
+	margin-right: 5px !important
+}
+
+/* Sticky navbar */
+
+.sticky {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  top: 0;
+  z-index: 100;
+  border-top: 0;
+}
+
+.nav {
+	position: -webkit-sticky;
+	background-color: #ffffff;
+	font-weight:500;
+	opacity: 0.8;
+	
+}
+
+#test_for_header{
+	text-align: center;
+}
+
+/* ---------------------------------Oferta---------------------------------------- */
+
+.test{
+	background-color: white;
+	text-align: center;
+}
+
+
+.ikony_oferta{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	height:350px;
+	width:350px;
+	display: block;
+	width: 75%;
+	height: auto;
+}
+
+.ikony_container{
+	position: relative;
+}
+
+.overlay {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background-color: #008CBA;
+	overflow: hidden;
+	width: 0;
+	height: 100%;
+	transition: .5s ease;
+}
+
+
+.ikony_container:hover .overlay {
+  width: 75%;
+}
+
+
+.text {
+	white-space: nowrap; 
+	color: white;
+	font-size: 20px;
+	position: absolute;
+	overflow: hidden;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+}
+
+
+
+
+
